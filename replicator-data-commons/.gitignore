@@ -1,0 +1,12 @@
+*.project
+*.log
+.idea/
+*.iml
+*.gitkeep
+*.classpath
+*.prefs
+*/bin/**
+*/target/**
+*/tomcat/**
+*.factorypath
+*/.settings/**
