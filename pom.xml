@@ -1,6 +1,5 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.axxc</groupId>
 	<artifactId>replicator</artifactId>
@@ -19,7 +18,7 @@
 		<commons-lang3.version>3.8.1</commons-lang3.version>
 		<commons-beanutils.version>1.9.3</commons-beanutils.version>
 		<logback-classic.version>1.2.6</logback-classic.version>
-		<jackson-databind.version>2.13.0</jackson-databind.version>
+		<jackson-databind.version>2.9.10.8</jackson-databind.version>
 		<disruptor.version>3.4.4</disruptor.version>
 		<mysql-binlog-connector-java.version>0.25.0</mysql-binlog-connector-java.version>
 		<spring.version>5.1.9.RELEASE</spring.version>
